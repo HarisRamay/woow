@@ -1,5 +1,5 @@
 def sort_array(arr):
-    arr.sort()  
+arr.sort()  
     return arr
 
 
